@@ -6,9 +6,9 @@ Great exercise
 
 Install
 --
-1. mkdir `webblog`
-2. cd `webblog`
-3. git clone https://github.com/aa1skillz/WebBlog.git
+1. `mkdir webblog`
+2. `cd webblog`
+3. `git clone https://github.com/aa1skillz/WebBlog.git`
 4. Using your favorite editor, configure relevant settings in `config`.
 5. `npm install`
 6. node `app.js`
