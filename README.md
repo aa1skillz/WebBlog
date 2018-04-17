@@ -1,7 +1,4 @@
 # WebBlog
-<<<<<<< HEAD
-=======
-
 
 Simple blog app built on Node.js + Express + MySQL.
 The purpose of this project was to get more familiar with Express and to provide a simple, customizable blogging platform for my website.
@@ -29,4 +26,4 @@ License
 --
 HAUI
 
->>>>>>> 5012dd6bb95e48222dce893a4559e3f308c991ae
+
