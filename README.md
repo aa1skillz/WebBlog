@@ -30,6 +30,6 @@ Nguyen Dinh Cong
 
 License
 --
-HAUI
+MIT
 
 
