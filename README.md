@@ -1,5 +1,5 @@
 # WebBlog
-<<<<<<< HEAD
+
 =======
 
 
@@ -29,4 +29,4 @@ License
 --
 HAUI
 
->>>>>>> 5012dd6bb95e48222dce893a4559e3f308c991ae
+

@@ -25,6 +25,9 @@ app.use("/static",express.static(__dirname+"/public"));
 
 var controllers=require(__dirname+"/apps/controllers/");
 app.use(controllers);
+//api
+var routes=require('./api/router');
+app.use('/blog/api',routes);
 
 var host=config.get("server.host");
 var port=config.get("server.port");
